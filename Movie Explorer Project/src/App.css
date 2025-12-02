@@ -1,0 +1,73 @@
+body {
+		font-family: Arial, sans-serif;
+		background-color: #111;
+		color: #fff;
+		margin: 0;
+		padding: 0;
+		padding-bottom: 20px;
+	}
+	.navbar {
+		background: #222;
+		display: flex;
+		align-items: center;
+		gap: 3rem;
+		padding: 1rem 2rem;
+	}
+
+	.navbar a {
+		color: #fff;
+		text-decoration: none;
+	}
+
+	.logo {
+		color: #fff;
+	}
+
+	.home form {
+		display: flex;
+		justify-content: center;
+		margin: 1rem;
+	}
+	.home button{
+		font-weight: bold;
+	}
+	.searchInput {
+		padding: 10px;
+		
+	}
+	.searchInput::placeholder{
+		font-weight: bold;
+	}
+
+	.movie-list {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 1rem;
+		margin-bottom: 2rem;
+	}
+
+	.movie-card {
+		background: #222;
+		padding: 1rem;
+		border-radius: 8px;
+		width: 200px;
+		text-align: center;
+	}
+
+	.movie-card img {
+		width: 100%;
+	}
+	.movie-card a {
+		color: #fff;
+		padding: 10px 20px;
+		background-color: rgb(194, 45, 45);
+		border-radius: 10px;
+		-webkit-border-radius: 10px;
+		-moz-border-radius: 10px;
+		-ms-border-radius: 10px;
+		-o-border-radius: 10px;
+		text-decoration: none;
+}
+
+	

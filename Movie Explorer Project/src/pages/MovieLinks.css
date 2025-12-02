@@ -1,0 +1,20 @@
+
+.movieslinks{
+    text-align: center;
+    padding: 20px;
+    height: 55vh;
+    width: 90vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px
+
+}
+.movieslinks a{
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+.movieslinks a strong{
+    color: blue;
+}

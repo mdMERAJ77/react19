@@ -1,0 +1,27 @@
+.movie-detail {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.movie-detail img {
+  width: 250px;
+  border-radius: 8px;
+}
+.movie-detail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.movie-detail p{
+    text-align: center; 
+}
+
+.movie-detail a{
+  color: red;
+  margin-bottom: 10px;
+}
+#download{
+  color: blue;
+}
