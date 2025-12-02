@@ -1,4 +1,5 @@
-# 🌐 Live Demo: <a href="moviemeraj.netlify.app" target="_blank" rel="noopener noreferrer">Movie Explorer Project on Netlify</a>
+# 🌐 Live Demo: (https://moviemeraj.netlify.app)
+
 
 # 🎬 Movie Explorer Project
 
