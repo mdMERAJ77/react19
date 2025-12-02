@@ -1,3 +1,4 @@
+# 🌐 Live Demo: https://moviemeraj.netlify.app
 
 # 🎬 Movie Explorer Project
 
@@ -56,5 +57,5 @@ npm start
 
 ---
 
-🌐 Live Demo: [Movie Explorer Project on Netlify]((https://moviemeraj.netlify.app/))
+🌐 Live Demo: https://moviemeraj.netlify.app
 
